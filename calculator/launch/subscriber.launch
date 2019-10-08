@@ -1,0 +1,3 @@
+<launch>
+  <node name="subscriber" pkg="calculator" type="subscriber" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+  <node name="publisher" pkg="calculator" type="publisher" output="screen"/>
+</launch>
